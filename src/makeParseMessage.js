@@ -25,7 +25,7 @@ const parseEmote = function(url, name) {
 // msgToList :: String -> String
 const msgToList = compose(split(' '), trim);
 
-// makeParseMessage :: String -> String
+// makeParseMessage :: [String] -> Integer -> String -> String
 const makeParseMessage = function(emotes, defaultMaxCount, msg) {
   const list = msgToList(msg);
   const initialObj = {list: list, count: 0, output: []};

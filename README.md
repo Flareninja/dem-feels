@@ -2,6 +2,10 @@
 
 A meme based emoticon standard.
 
+[![Build Status](https://travis-ci.org/CreaturePhil/dem-feels.svg)](https://travis-ci.org/CreaturePhil/dem-feels)
+[![Dependency Status](https://david-dm.org/CreaturePhil/dem-feels.svg)](https://david-dm.org/CreaturePhil/dem-feels)
+[![devDependency Status](https://david-dm.org/CreaturePhil/dem-feels/dev-status.svg)](https://david-dm.org/CreaturePhil/dem-feels#info=devDependencies)
+
 ## example
 
 ```js

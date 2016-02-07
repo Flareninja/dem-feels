@@ -23,7 +23,7 @@ const io_readdir = function(path) {
 const emotesPath = path.join(__dirname, '..', 'emotes');
 
 // rawGitBaseUrl :: String
-const rawGitBaseUrl = 'https://cdn.rawgit.com/CreaturePhil/dem-feels/master/';
+const rawGitBaseUrl = 'https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/';
 
 // filenameToRawGit :: String -> String
 const filenameToRawGit = concat(rawGitBaseUrl);

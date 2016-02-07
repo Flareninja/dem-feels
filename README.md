@@ -12,7 +12,7 @@ A meme based emoticon standard.
 const demFeels = require('dem-feels');
 
 demFeels('hello world! feelsgd');
-// => hello world! <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/feelsgd.png" title="feelsgd" width="50" height="50" />'
+// => hello world! <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" />'
 ```
 
 ## documentation
@@ -33,14 +33,14 @@ only parse one emote:
 
 ```js
 demFeels('feelsgd feelsgd');
-// => <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/feelsgd.png" title="feelsgd" width="50" height="50" /> feelsgd'
+// => <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /> feelsgd'
 ```
 
 But setting it to 2 will parse two emotes:
 
 ```js
 demFeels('feelsgd feelsgd');
-// => <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/feelsgd.png" title="feelsgd" width="50" height="50" /> <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/feelsgd.png" title="feelsgd" width="50" height="50" />'
+// => <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /> <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" />'
 ```
 
 ## license

@@ -3,7 +3,7 @@ const demFeels = require('../src');
 
 // ei shorthand for emoteImage
 function ei(name) {
-  return '<img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/' + name + '.png" title="' + name + '" width="50" height="50" />'
+  return '<img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/' + name + '.png" title="' + name + '" width="50" height="50" />'
 }
 
 test('parse a single emote', function(t) {

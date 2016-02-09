@@ -15,6 +15,14 @@ demFeels('hello world! feelsgd');
 // => hello world! <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" />'
 ```
 
+# emotes
+
+**Emote** | **Name** | **Description**
+--------- | -------- | ---------------
+![feelsgd](emotes/feelsgd.png) | feelsgd | Feels Good Man
+![feelsbd](emotes/feelsbd.png) | feelsbd | Feels Bad Man
+![feelsmd](emotes/feelsmd.png) | feelsmd | Feels Mad Man
+
 ## documentation
 
 ### demFeels(message)

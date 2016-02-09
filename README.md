@@ -22,6 +22,7 @@ demFeels('hello world! feelsgd');
 ![feelsgd](emotes/feelsgd.png) | feelsgd | Feels Good Man
 ![feelsbd](emotes/feelsbd.png) | feelsbd | Feels Bad Man
 ![feelsmd](emotes/feelsmd.png) | feelsmd | Feels Mad Man
+![feelsrs](emotes/feelsrs.png) | feelsrs | Feels Serious Man
 
 ## documentation
 

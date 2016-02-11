@@ -19,11 +19,11 @@ demFeels('hello world! feelsgd');
 
 **Emote** | **Name** | **Description**
 --------- | -------- | ---------------
-![feelsgd](emotes/feelsgd.png) | feelsgd | Feels Good Man
-![feelsbd](emotes/feelsbd.png) | feelsbd | Feels Bad Man
-![feelsmd](emotes/feelsmd.png) | feelsmd | Feels Mad Man
-![feelsrs](emotes/feelsrs.png) | feelsrs | Feels Serious Man
-![feelsok](emotes/feelsok.png) | feelsok | Feels Okay Man
+![feelsgd](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png) | feelsgd | Feels Good Man
+![feelsbd](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsbd.png) | feelsbd | Feels Bad Man
+![feelsmd](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsmd.png) | feelsmd | Feels Mad Man
+![feelsrs](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsrs.png) | feelsrs | Feels Serious Man
+![feelsok](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsok.png) | feelsok | Feels Okay Man
 
 ## documentation
 

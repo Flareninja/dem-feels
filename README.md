@@ -19,13 +19,13 @@ demFeels('hello world! feelsgd');
 
 **Emote** | **Name** | **Description**
 --------- | -------- | ---------------
-[![feelsgd](emotes/feelsgd.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png) | feelsgd | Feels Good Man
-[![feelsbd](emotes/feelsbd.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsbd.png) | feelsbd | Feels Bad Man
-[![feelsmd](emotes/feelsmd.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsmd.png) | feelsmd | Feels Mad Man
-[![feelsrs](emotes/feelsrs.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsrs.png) | feelsrs | Feels Serious Man
-[![feelsok](emotes/feelsok.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsok.png) | feelsok | Feels Okay Man
-[![feelsnv](emotes/feelsnv.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsnv.png) | feelsnv | Feels Nervous Man
-[![feelsgn](emotes/feelsgn.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgn.png) | feelsgn | Feels Gun Man
+[![feelsgd](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png) | feelsgd | Feels Good Man
+[![feelsbd](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsbd.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsbd.png) | feelsbd | Feels Bad Man
+[![feelsmd](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsmd.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsmd.png) | feelsmd | Feels Mad Man
+[![feelsrs](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsrs.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsrs.png) | feelsrs | Feels Serious Man
+[![feelsok](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsok.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsok.png) | feelsok | Feels Okay Man
+[![feelsnv](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsnv.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsnv.png) | feelsnv | Feels Nervous Man
+[![feelsgn](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgn.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgn.png) | feelsgn | Feels Gun Man
 
 ## documentation
 

@@ -25,6 +25,7 @@ demFeels('hello world! feelsgd');
 [![feelsrs](emotes/feelsrs.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsrs.png) | feelsrs | Feels Serious Man
 [![feelsok](emotes/feelsok.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsok.png) | feelsok | Feels Okay Man
 [![feelsnv](emotes/feelsnv.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsnv.png) | feelsnv | Feels Nervous Man
+[![feelsgn](emotes/feelsgn.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgn.png) | feelsgn | Feels Gun Man
 
 ## documentation
 

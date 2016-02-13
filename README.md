@@ -33,6 +33,10 @@ demFeels('hello world! feelsgd');
 [![feelsco](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsco.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsco.png) | feelco | Feels Cool Man
 [![feelscr](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelscr.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelscr.png) | feelscr | Feels Crazy Man
 [![feelstr](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelstr.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelstr.png) | feelstr | Feels Tired Man
+[![xaa](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png) | xaa | Exaggerated Laughing Face
+[![oshet](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/oshet.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/oshet.png) | oshet | Oh shit, you are screw! Shock Face
+[![niglol](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/niglol.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/niglol.png) | niglol | Hysterical Laughing Face
+[![wtfman](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/wtfman.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/wtfman.png) | wtfman | What the fuck man?!
 
 ## documentation
 

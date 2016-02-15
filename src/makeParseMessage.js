@@ -32,7 +32,7 @@ const makeParseMessage = function(emotes, defaultMaxCount, msg) {
 
   // parse :: [String] -> {list: [String], count: Integer, output: [String]}
   const parse = reduce(function(acc, cur) {
-    const obj = Object.assign(acc, {}, {list: tail(acc.list)});
+    const obj = Object.assign({}, obj, {list: tail(acc.list)});
 
     if (has(cur, emotes) && acc.count < defaultMaxCount) {
       const emote = parseEmote(prop(cur, emotes), cur);

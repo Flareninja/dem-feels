@@ -36,12 +36,12 @@ const makeParseMessage = function(emotes, defaultMaxCount, msg) {
 
     if (has(cur, emotes) && acc.count < defaultMaxCount) {
       const emote = parseEmote(prop(cur, emotes), cur);
-      return Object.assign(obj, {}, {
+      return Object.assign({}, obj, {
         count: acc.count + 1,
         output: append(emote, acc.output)
       });
     } else {
-      return Object.assign(obj, {}, {output: append(cur, acc.output)});
+      return Object.assign({}, obj, {output: append(cur, acc.output)});
     }
   }, initialObj);
 

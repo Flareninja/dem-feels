@@ -8,7 +8,6 @@ const R = require('ramda');
 const compose = R.compose;
 const concat = R.concat;
 const head = R.head;
-const map = R.map;
 const reduce = R.reduce;
 const split = R.split;
 
@@ -29,7 +28,7 @@ const rawGitBaseUrl = 'https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emot
 const filenameToRawGit = concat(rawGitBaseUrl);
 
 // filenameToName :: String -> String
-const filenameToName = compose(head, split('.'))
+const filenameToName = compose(head, split('.'));
 
 // toEmoteMap :: [String] -> {String: String}
 const toEmoteMap = reduce(function(acc, cur) {

@@ -42,6 +42,7 @@ demFeels('hello world! feelsgd');
 [![wtfman](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/wtfman.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/wtfman.png) | wtfman | What the fuck man?!
 [![FacePalm](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/FacePalm.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/FacePalm.png) | FacePalm | Palm to Face
 [![hmmface](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/hmmface.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/hmmface.png) | hmmface | Hmm... thinking face 
+[![yesface](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/yesface.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/yesface.png) | yesface | Yes face
 
 ## documentation
 

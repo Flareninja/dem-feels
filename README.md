@@ -34,6 +34,7 @@ demFeels('hello world! feelsgd');
 [![feelscr](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelscr.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelscr.png) | feelscr | Feels Crazy Man
 [![feelstr](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelstr.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelstr.png) | feelstr | Feels Tired Man
 [![feelsfdra](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsfdra.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsfdra.png) | feelsfdra | Feels Fedora Man
+[![feelsrg](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsrg.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsrg.png) | feelsrg | Feels Rage Man
 [![feelspink](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelspink.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelspink.png) | feelspink | Feels Pink Man
 [![feelsjig](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsjig.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsjig.png) | feelsjig | Feels Jiggle Man
 [![xaa](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png) | xaa | Exaggerated Laughing Face
@@ -44,6 +45,7 @@ demFeels('hello world! feelsgd');
 [![hmmface](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/hmmface.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/hmmface.png) | hmmface | Hmm... thinking face 
 [![yesface](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/yesface.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/yesface.png) | yesface | Yes face
 [![noface](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/noface.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/noface.png) | noface | No Face
+[![yayface](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/yayface.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/yayface.png) | yayface | Yay Face
 
 ## documentation
 

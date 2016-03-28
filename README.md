@@ -72,10 +72,11 @@ Get an object of emotes. For example: ``{'feelsgd': 'https://cdn.rawgit.com/Crea
 
 ### demFeels.setMaxCount(count)
 
-Set the maximum number of emotes to parse. For example, limiting it to 1 will
+Set the maximum number of emotes to parse. Defaults to 5. For example, limiting it to 1 will
 only parse one emote:
 
 ```js
+demFeels.setMaxCount(1);
 demFeels('feelsgd feelsgd');
 // => <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /> feelsgd'
 ```
@@ -83,6 +84,7 @@ demFeels('feelsgd feelsgd');
 But setting it to 2 will parse two emotes:
 
 ```js
+demFeels.setMaxCount(2);
 demFeels('feelsgd feelsgd');
 // => <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /> <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" />'
 ```

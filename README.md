@@ -15,6 +15,12 @@ demFeels('hello world! feelsgd');
 // => hello world! <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" />'
 ```
 
+## installation
+
+```bash
+$ npm install dem-feels
+```
+
 ## emotes
 
 **Emote** | **Name** | **Description**

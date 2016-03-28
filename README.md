@@ -42,7 +42,7 @@ demFeels('hello world! feelsgd');
 [![niglol](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/niglol.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/niglol.png) | niglol | Hysterical Laughing Face
 [![wtfman](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/wtfman.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/wtfman.png) | wtfman | What the fuck man?!
 [![FacePalm](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/FacePalm.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/FacePalm.png) | FacePalm | Palm to Face
-[![hmmface](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/hmmface.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/hmmface.png) | hmmface | Hmm... thinking face 
+[![hmmface](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/hmmface.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/hmmface.png) | hmmface | Hmm... thinking face
 [![yesface](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/yesface.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/yesface.png) | yesface | Yes face
 [![noface](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/noface.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/noface.png) | noface | No Face
 [![yayface](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/yayface.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/yayface.png) | yayface | Yay Face
@@ -53,6 +53,18 @@ demFeels('hello world! feelsgd');
 
 Parses the message with dem feels. Default maximum count of parsing amount of
 emotes is ``5``.
+
+### demfeels.extendEmotes(newEmotes)
+
+Add new emotes to the default list of emotes. newEmotes is an object.
+
+Example:
+
+```js
+demFeels.extendEmotes({
+  'feelsnew': 'feelsnew.png'
+});
+```
 
 ### demFeels.getEmotes()
 

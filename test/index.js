@@ -67,3 +67,17 @@ test('getting emotes', function(t) {
 
   t.equal(typeof demFeels.getEmotes(), 'object');
 });
+
+test('extend emotes', function(t) {
+  t.plan(1);
+
+  const oldEmotes = demFeels.getEmotes();
+
+  const emotes = {
+    'feelsnew': 'feelsnew.png'
+  };
+
+  demFeels.extendEmotes(emotes);
+
+  t.deepEqual(demFeels.getEmotes(), Object.assign({}, oldEmotes, emotes));
+});

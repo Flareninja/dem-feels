@@ -33,6 +33,7 @@ demFeels('hello world! feelsgd');
 [![feelsco](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsco.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsco.png) | feelco | Feels Cool Man
 [![feelscr](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelscr.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelscr.png) | feelscr | Feels Crazy Man
 [![feelstr](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelstr.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelstr.png) | feelstr | Feels Tired Man
+[![feelssc](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelssc.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelssc.png) | feelssc | Feels Scare Man
 [![feelsfdra](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsfdra.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsfdra.png) | feelsfdra | Feels Fedora Man
 [![feelsrg](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsrg.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsrg.png) | feelsrg | Feels Rage Man
 [![feelspink](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelspink.png)](https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelspink.png) | feelspink | Feels Pink Man
